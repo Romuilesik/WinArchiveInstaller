@@ -1,0 +1,16 @@
+1.2 (2024-1-2)
+- Bug fixes
+    - Fixed a bug where the program crashed abruptly during the installation process
+
+
+
+1.1 (2024-1-1)
+- Bug fixes
+    - Fixed a bug where the program was opening both normally and with administrator privileges
+
+
+
+
+1.0 (2023-12-25) New program
+- New features added
+    - Added a function for installing the WinArchive program
