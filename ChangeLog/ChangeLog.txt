@@ -1,0 +1,61 @@
+1.7 (2024-2-7)
+- Updated functions
+    - function for installing the WinArchive program
+	- Changed the program installer's software folder
+	- Changed the WinArchive program's software folder
+
+
+1.6 (2024-1-13)
+- Bug fixes
+    - Fixed an issue where the program didn't work without the Git program installed
+- Updated functions
+    - function for installing the WinArchive program
+	- Installation no longer requires GIT, making the process smoother for users who do not have GIT installed
+	- Installation process optimized for faster setup
+
+
+
+1.5 (2024-1-11)
+- Bug fixes
+    - Fixed a bug causing the program to crash when selecting the program language
+- New features added
+    - The installer now automatically configures the language settings for installed programs
+
+
+
+
+1.4 (2024-1-10)
+- Bug fixes
+    - Fixed a bug where error text wasn't displayed in red
+- New features added
+    - Added the capability to select the program language
+	- English
+	- Russian
+	- Ukrainian
+- Interface improvements
+    - Now all words are capitalized
+
+
+
+1.3 (2024-1-3)
+- Bug fixes
+    - Fixed a bug where the installation error message was displayed in Russian instead of English
+
+
+
+1.2 (2024-1-2)
+- Bug fixes
+    - Fixed a bug where the program crashed abruptly during the installation process
+
+
+
+1.1 (2024-1-1)
+- Bug fixes
+    - Fixed a bug where the program was opening both normally and with administrator privileges
+
+
+
+
+1.0 (2023-12-25) New program
+- New features added
+    - Added a function for installing the WinArchive program
